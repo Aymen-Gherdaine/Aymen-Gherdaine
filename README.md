@@ -7,6 +7,7 @@ Web Developer
 I’m a full-stack web developer, with a background in computer science (Network and System Administration), I also have experience with the Shopify e-commerce platform. I am passionate about creating websites that users will find easy to use and visually appealing.
 
 * 🌍  I'm based in Montréal
+* 💼  Portfolio [aymengherdaine.com](https://aymengherdaine.com)
 * ✉️  You can contact me at [aymengherdaine@hotmail.com](mailto:aymengherdaine@hotmail.com)
 * 🚀  I'm currently working on [LAGHATA](http://laghata.com/)
 * 🧠  I'm learning Next.js
