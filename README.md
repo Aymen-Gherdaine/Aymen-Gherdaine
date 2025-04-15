@@ -9,7 +9,7 @@ I’m a full-stack web developer, with a background in computer science (Network
 * 🌍  I'm based in Montréal
 * 💼  Portfolio [aymengherdaine.com](https://aymengherdaine.com)
 * ✉️  You can contact me at [aymengherdaine@hotmail.com](mailto:aymengherdaine@hotmail.com)
-* 🚀  I'm currently working on [LAGHATA](http://laghata.com/)
+* 🚀  I'm currently working on [L'Hirondelle](https://lhirondelledev.kinsta.cloud/)
 * 🧠  I'm learning Next.js
 
 ### Skills
