@@ -7,10 +7,9 @@ Web Developer
 I’m a full-stack web developer, with a background in computer science (Network and System Administration), I also have experience with the Shopify e-commerce platform. I am passionate about creating websites that users will find easy to use and visually appealing.
 
 * 🌍  I'm based in Montréal
-* 💼  Portfolio [aymengherdaine.com](https://aymengherdaine.dev)
+* 💼  Portfolio [aymengherdaine.dev](https://aymengherdaine.dev)
 * ✉️  You can contact me at [contact@aymengherdaine.dev](mailto:contact@aymengherdaine.dev)
 * 🚀  I'm currently working on [L'Hirondelle](https://lhirondelledev.kinsta.cloud/)
-* 🧠  I'm learning Next.js
 
 ### Skills
 
